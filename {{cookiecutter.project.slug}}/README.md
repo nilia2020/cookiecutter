@@ -29,7 +29,7 @@ cookiecutter https://github.com/nilia2020/cookiecutter
 
 ## Estructura de directorios y archivos resultantes
 
-{{ cookiecutter.project_slug }}
+        {{ cookiecutter.project_slug }}
         ├── data
         │   ├── processed      <- The final, canonical data sets for modeling.
         │   └── raw            <- The original, immutable data dump.
