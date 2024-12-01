@@ -24,7 +24,7 @@ conda install -c conda-forge cookiecutter
 En el directorio en el que quieras guardar tu proyecto generado:
 
 ```bash
-cookiecutter https://github.com/nilia2020/cookiecutter
+cookiecutter https://github.com/nilia2020/cookiecutter --checkout cookiecutter-personal
 ```
 
 ## Estructura de directorios y archivos resultantes
