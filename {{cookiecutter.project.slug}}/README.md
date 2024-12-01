@@ -1,6 +1,6 @@
 # Cookiecuter
 
-[![@nilia2020](https://img.shields.io/badge/@nilia2020-Sitio_personal-blue?&logoColor=white)]
+![@nilia2020](https://img.shields.io/badge/@nilia2020-Sitio_personal-blue?&logoColor=white)
 
 ## Requerimientos
 
